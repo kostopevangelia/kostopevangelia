@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java Development, Backend, Machine Learning, Data Science
 - 🌱 I’m currently exploring data science and machine learning technologies through my thesis
 - 📫https://www.linkedin.com/in/evangelia-kostopoulou/
-- https://linktr.ee/evangeliakostop
+- 🌱 https://linktr.ee/evangeliakostop
 
 
 <!---
