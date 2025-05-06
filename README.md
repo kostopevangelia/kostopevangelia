@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @kostopevangelia
 - 👀 I’m interested in Java Development, Backend, Machine Learning, Data Science
-- 🌱 I’m currently learning Game Development with Unity
+- 🌱 I’m currently exploring data science and machine learning technologies through my thesis
 - 📫https://www.linkedin.com/in/evangelia-kostopoulou/
+- https://linktr.ee/evangeliakostop
 
 
 <!---
